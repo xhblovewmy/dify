@@ -310,4 +310,4 @@ services:
       - api
       - web
     ports:
-      - "80:80"
+      - "8081:80"
